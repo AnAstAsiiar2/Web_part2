@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "custom_module": "file:custom_module"
+  }
+}
